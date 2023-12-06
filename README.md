@@ -1,6 +1,6 @@
 ### Hi there 👋, Neo David
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png)
 
 I am an aspiring developer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
 
