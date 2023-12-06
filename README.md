@@ -1,5 +1,5 @@
 ### Hi there 👋, Neo David
-#### Second-year BSIT-MWA Student
+#### Student | Aspiring Developer
 ![Software Developer](https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png)
 
 I am an aspiring developer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
