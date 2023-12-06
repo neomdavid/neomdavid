@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Neo David
+#### Software Developer
+![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Neo David, and I am a second-year student taking a degree of Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications of National University. I am dedicated to become a programmer and develop applications. I mainly use Java in creating projects and I have also used Java Swing and JavaFX, and I am currently learning Android Studio.
+I am an aspiring developer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neomdavid)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JAVA / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Android Studio 
+- 🤔 I’m looking for help with Java and Android App Development 
+- 📫 How to reach me: neomanaogdavid@gmail.com 
+- ⚡ Fun fact: Department of Science and Technology (DOST) Scholar 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neomdavid)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neomdavid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true)  
+
