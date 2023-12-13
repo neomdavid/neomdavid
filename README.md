@@ -6,7 +6,7 @@ I am an aspiring developer, and a second-year student taking Bachelor of Science
 
 Skills: JAVA / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently a student of National University. 
 - 🌱 I’m currently learning Android Studio 
 - 🤔 I’m looking for help with Java and Android App Development 
 - 📫 How to reach me: neomanaogdavid@gmail.com 
