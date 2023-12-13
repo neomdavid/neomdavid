@@ -1,4 +1,4 @@
-### Hi there 👋, Neo David
+### Hi there 👋, I am Neo David
 #### Student | Aspiring Developer
 ![Software Developer](https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png)
 
