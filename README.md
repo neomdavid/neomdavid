@@ -4,14 +4,11 @@
 
 I am an software engineer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
 
-Skills: JAVA / JS / HTML / CSS
+Skills: JAVA / JAVASCRIPT / HTML / CSS / SQL
 
 - 🔭 I’m currently a student of National University. 
-- 🌱 I’m currently learning Android Studio 
-- 🤔 I’m looking for help with Java and Android App Development 
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: neomanaogdavid@gmail.com 
-- ⚡ Fun fact: Department of Science and Technology (DOST) Scholar 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neomdavid)  
 
