@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Neo David
-#### Student | Aspiring Developer
+#### Student | Aspiring Software Engineer
 ![Software Developer](https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png)
 
-I am an aspiring developer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
+I am an software engineer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
 
 Skills: JAVA / JS / HTML / CSS
 
