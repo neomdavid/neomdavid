@@ -2,7 +2,7 @@
 #### Student | Aspiring Software Engineer
 ![Software Developer](https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png)
 
-I am an aspiring software engineer, and a second-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
+I am an aspiring software engineer, and a third-year student taking Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications
 
 Skills: JAVA / JAVASCRIPT / HTML / CSS / SQL
 
