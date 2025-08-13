@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neo David</h1>
 <h3 align="center">A passionate Full Stack Developer, currently a 4th-year Student</h3>
 
-- 🔭 I’m currently working on **BuzzMap**  
+- 🔭 I’m currently working on <a href="https://github.com/neomdavid/buzzmap-web">**BuzzMap**</a>
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB**  
 - 📫 How to reach me **neomanaogdavid@gmail.com**
 
