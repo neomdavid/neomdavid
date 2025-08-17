@@ -30,9 +30,9 @@
 
 ---
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
