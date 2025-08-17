@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/><br/>
+      <img width="50" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React"/><br/>
       <sub>React</sub>
     </td>
     <td align="center">
