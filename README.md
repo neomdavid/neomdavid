@@ -58,11 +58,20 @@
   </table>
 </p>
 
-<div style="text-align: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=dark" alt="neomdavid" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=dark" alt="neomdavid" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=dark" alt="neomdavid" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
