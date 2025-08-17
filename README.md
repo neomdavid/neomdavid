@@ -7,9 +7,11 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
+  <tr>
+    <h3 align="center">Languages and Tools:</h3>
+  <tr/>
   <tr>
     <td align="center"><img width="50" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React"/><br/><sub>React</sub></td>
     <td align="center"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/><br/><sub>Tailwind</sub></td>
