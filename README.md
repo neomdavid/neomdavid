@@ -31,13 +31,6 @@
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/><br/>
       <sub>Express</sub>
     </td>
-    <!-- empty placeholders to match second row -->
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>
       <sub>MongoDB</sub>
@@ -46,6 +39,8 @@
       <img width="50" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript"/><br/>
       <sub>JavaScript</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/><br/>
       <sub>HTML</sub>
@@ -76,7 +71,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 <p align="center">
