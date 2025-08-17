@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <table>
     <tr>
       <td align="center">
@@ -58,7 +58,7 @@
   </table>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" />
