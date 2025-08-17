@@ -37,6 +37,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=neomdavid&theme=nord&margin-w=4" alt="neomdavid trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=neomdavid&theme=nord&margin-w=30" alt="neomdavid trophies" />
   </a>
 </p>
