@@ -66,7 +66,7 @@
       <sub>Figma</sub>
     </td>
     <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react" alt="React Native" title="React Native"/><br/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/><br/>
       <sub>React Native</sub>
     </td>
   </tr>
