@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
