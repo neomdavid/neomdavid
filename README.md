@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Neo David</h1>
-<h3 align="center">A passionate Full Stack Developer, currently a 4th-year Student</h3>
-
 <p align="center">
   <img src="https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png" alt="neomdavid" />
 </p>
