@@ -53,6 +53,22 @@
       <img width="50" src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" title="Git"/><br/>
       <sub>Git</sub>
     </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/><br/>
+      <sub>Git</sub>
+    </td>
+     <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/><br/>
+      <sub>Canva</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/><br/>
+      <sub>Figma</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react" alt="React Native" title="React Native"/><br/>
+      <sub>React Native</sub>
+    </td>
   </tr>
 </table>
 
