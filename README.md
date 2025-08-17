@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neo David</h1>
 <h3 align="center">A passionate Full Stack Developer, currently a 4th-year Student</h3>
 
-
+---
 <p align="center">
   <img src="https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png" alt="neomdavid" />
 </p>
-
+---
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -59,10 +59,11 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" height="150"/>
 </p>
+
 
 
 
@@ -72,4 +73,7 @@
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
