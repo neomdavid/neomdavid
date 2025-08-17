@@ -8,7 +8,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+
   <table>
     <tr>
       <td align="center">
@@ -57,7 +57,7 @@
       <td></td><td></td><td></td><td></td><td></td><td></td>
     </tr>
   </table>
-</div>
+
 
 ---
 
