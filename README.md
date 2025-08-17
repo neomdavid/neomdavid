@@ -31,6 +31,11 @@
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/><br/>
       <sub>Express</sub>
     </td>
+    <!-- empty placeholders to match second row -->
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">
@@ -55,9 +60,9 @@
     </td>
     <td align="center">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/><br/>
-      <sub>Git</sub>
+      <sub>Postman</sub>
     </td>
-     <td align="center">
+    <td align="center">
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/><br/>
       <sub>Canva</sub>
     </td>
@@ -71,6 +76,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 <p align="center">
