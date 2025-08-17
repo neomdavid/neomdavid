@@ -38,7 +38,7 @@
       <sub>MongoDB</sub>
     </td>
     <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/><br/>
+      <img width="50" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript"/><br/>
       <sub>JavaScript</sub>
     </td>
     <td align="center">
@@ -50,7 +50,7 @@
       <sub>CSS</sub>
     </td>
     <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/><br/>
+      <img width="50" src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" title="Git"/><br/>
       <sub>Git</sub>
     </td>
   </tr>
