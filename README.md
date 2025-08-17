@@ -1,79 +1,48 @@
-<h1 align="center">Hi 👋, I'm Neo David</h1>
-<h3 align="center">A passionate Full Stack Developer, currently a 4th-year Student</h3>
-
----
-<p align="center">
-  <img src="https://github.com/neomdavid/neomdavid/blob/main/GitHubHeader.png" alt="neomdavid" />
-</p>
----
-
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/><br/>
-        <sub>Git</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/><br/>
-        <sub>HTML</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/><br/>
-        <sub>CSS</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/><br/>
-        <sub>Tailwind</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/><br/>
-        <sub>JavaScript</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/><br/>
-        <sub>React</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/><br/>
-        <sub>Node.js</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/><br/>
-        <sub>Express</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/><br/>
-        <sub>Redux</sub>
-      </td>
-      <td align="center">
-        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>
-        <sub>MongoDB</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" height="160"/>
-</p>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=neomdavid&theme=juicyfresh" alt="neomdavid" />
-  </a>
-</p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/><br/>
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/><br/>
+      <sub>Redux</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/><br/>
+      <sub>Express</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/><br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center">
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+  </tr>
+</table>
