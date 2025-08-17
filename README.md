@@ -7,9 +7,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" style="background-color: lightyellow; padding:10px;">
+<div align="left" style="background-color: lightyellow; padding:30px;">
   <table width="100%">
     <tr>
       <td align="center" style="background-color: lightblue;">
