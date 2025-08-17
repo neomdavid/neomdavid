@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <table>
     <tr>
       <td align="center">
@@ -58,7 +58,7 @@
   </table>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neomdavid&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=neomdavid&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomdavid&theme=transparent" alt="GitHub Streak" height="160"/>
@@ -67,7 +67,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=neomdavid&theme=juicyfresh" alt="neomdavid" />
   </a>
