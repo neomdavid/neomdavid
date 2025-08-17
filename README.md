@@ -1,7 +1,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
-  <table width="100%">
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <table>
     <tr>
       <td align="center">
         <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/><br/>
@@ -45,8 +47,7 @@
         <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>
         <sub>MongoDB</sub>
       </td>
-      <!-- Fill empty cells to keep row width balanced -->
-      <td></td><td></td><td></td><td></td><td></td><td></td>
     </tr>
   </table>
-</div>
+</p>
+
