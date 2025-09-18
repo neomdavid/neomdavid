@@ -40,3 +40,35 @@
     <img src="https://github-profile-trophy.vercel.app/?username=neomdavid&theme=nord&margin-w=4" alt="neomdavid trophies" />
   </a>
 </p>
+---
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center" bgcolor="#f0f0f0">
+      <h3 style="color: #61dafb;">Projects</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Portfolio Website</b><br/>
+      <a href="https://github.com/neomdavid/portfolio">
+        <img src="https://placehold.co/300x180?text=Portfolio+Website" alt="Portfolio Website" width="300"/>
+      </a><br/>
+      <a href="https://github.com/neomdavid/portfolio">🔗 GitHub Repo</a>
+    </td>
+    <td align="center"><b>E-Commerce App</b><br/>
+      <a href="https://github.com/neomdavid/ecommerce-app">
+        <img src="https://placehold.co/300x180?text=E-Commerce+App" alt="E-Commerce App" width="300"/>
+      </a><br/>
+      <a href="https://github.com/neomdavid/ecommerce-app">🔗 GitHub Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Chat Application</b><br/>
+      <a href="https://github.com/neomdavid/chat-app">
+        <img src="https://placehold.co/300x180?text=Chat+Application" alt="Chat Application" width="300"/>
+      </a><br/>
+      <a href="https://github.com/neomdavid/chat-app">🔗 GitHub Repo</a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
