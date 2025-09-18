@@ -59,19 +59,19 @@
       <a href="https://github.com/neomdavid/buzzmap-web">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
-      <img src="https://placehold.co/400x200?text=Portfolio+Website" alt="Portfolio Website" width="400"/>
+      <img src="https://github.com/neomdavid/neomdavid/blob/main/images/buzzmap.png" alt="BuzzMap: A Crowd-Sourced Dengue Outbreak Prevention and Intervention System with Prescriptive Analytics" width="400"/>
     </td>
   </tr>
 
   <!-- Project 2 -->
   <tr>
     <td width="55%">
-      <h3>AFProTrack: AFP Personnel and Trainee Management Sysem</h3>
+      <h3>AFProTrack: AFP Personnel and Trainee Management System</h3>
       <p>A centralized web-based system designed to streamline personnel and trainee management within the Armed Forces of the Philippines (AFP).</p>
       <a href="https://github.com/neomdavid/ecommerce-app">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
-      <img src="https://placehold.co/400x200?text=E-Commerce+App" alt="E-Commerce App" width="400"/>
+      <img src="https://github.com/neomdavid/neomdavid/blob/main/images/afprotrack.png" alt="AFProTrack: AFP Personnel and Trainee Management System" width="400"/>
     </td>
   </tr>
 
@@ -83,7 +83,7 @@
       <a href="https://github.com/neomdavid/chat-app">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
-      <img src="https://placehold.co/400x200?text=Chat+Application" alt="Chat Application" width="400"/>
+      <img src="https://github.com/neomdavid/neomdavid/blob/main/images/cbqis.png" alt="CBQIS: Country Bankers Quotation Insurance System" width="400"/>
     </td>
   </tr>
 
