@@ -55,7 +55,7 @@
   <tr>
     <td width="55%">
       <h3>BuzzMap: A Crowd-Sourced Dengue Outbreak Prevention and Intervention System with Prescriptive Analytics</h3>
-      <p>A comprehensive dengue outbreak prevention and intervention system that leverages crowd-sourced data and prescriptive analytics to combat dengue fever in Quezon City.</p>
+      <p>A comprehensive dengue outbreak prevention and intervention system for Quezon City Epidemiology and Surveillance Division (QCESD) that leverages crowd-sourced data and prescriptive analytics to combat dengue fever in Quezon City.</p>
       <a href="https://github.com/neomdavid/buzzmap-web">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
