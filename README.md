@@ -42,33 +42,49 @@
 </p>
 ---
 
+---
+
 <table align="center">
   <tr>
     <td colspan="2" align="center" bgcolor="#f0f0f0">
       <h3 style="color: #61dafb;">Projects</h3>
     </td>
   </tr>
+
+  <!-- Project 1 -->
   <tr>
-    <td align="center"><b>Portfolio Website</b><br/>
-      <a href="https://github.com/neomdavid/portfolio">
-        <img src="https://placehold.co/300x180?text=Portfolio+Website" alt="Portfolio Website" width="300"/>
-      </a><br/>
-      <a href="https://github.com/neomdavid/portfolio">🔗 GitHub Repo</a>
+    <td width="55%">
+      <h4>📌 Portfolio Website</h4>
+      <p>A personal portfolio built with <b>React</b> and <b>Tailwind CSS</b> to showcase my skills and projects.</p>
+      <a href="https://github.com/neomdavid/portfolio">🔗 View on GitHub</a>
     </td>
-    <td align="center"><b>E-Commerce App</b><br/>
-      <a href="https://github.com/neomdavid/ecommerce-app">
-        <img src="https://placehold.co/300x180?text=E-Commerce+App" alt="E-Commerce App" width="300"/>
-      </a><br/>
-      <a href="https://github.com/neomdavid/ecommerce-app">🔗 GitHub Repo</a>
+    <td align="center" width="45%">
+      <img src="https://placehold.co/400x200?text=Portfolio+Website" alt="Portfolio Website" width="400"/>
     </td>
   </tr>
+
+  <!-- Project 2 -->
   <tr>
-    <td align="center"><b>Chat Application</b><br/>
-      <a href="https://github.com/neomdavid/chat-app">
-        <img src="https://placehold.co/300x180?text=Chat+Application" alt="Chat Application" width="300"/>
-      </a><br/>
-      <a href="https://github.com/neomdavid/chat-app">🔗 GitHub Repo</a>
+    <td width="55%">
+      <h4>🛒 E-Commerce App</h4>
+      <p>A full-stack e-commerce application using <b>MERN stack</b> with authentication, product management, and payments.</p>
+      <a href="https://github.com/neomdavid/ecommerce-app">🔗 View on GitHub</a>
     </td>
-    <td align="center"></td>
+    <td align="center" width="45%">
+      <img src="https://placehold.co/400x200?text=E-Commerce+App" alt="E-Commerce App" width="400"/>
+    </td>
   </tr>
+
+  <!-- Project 3 -->
+  <tr>
+    <td width="55%">
+      <h4>💬 Chat Application</h4>
+      <p>A real-time chat app using <b>Node.js</b>, <b>Socket.io</b>, and <b>MongoDB</b> with private and group messaging.</p>
+      <a href="https://github.com/neomdavid/chat-app">🔗 View on GitHub</a>
+    </td>
+    <td align="center" width="45%">
+      <img src="https://placehold.co/400x200?text=Chat+Application" alt="Chat Application" width="400"/>
+    </td>
+  </tr>
+
 </table>
