@@ -54,9 +54,9 @@
   <!-- Project 1 -->
   <tr>
     <td width="55%">
-      <h4>📌 Portfolio Website</h4>
-      <p>A personal portfolio built with <b>React</b> and <b>Tailwind CSS</b> to showcase my skills and projects.</p>
-      <a href="https://github.com/neomdavid/portfolio">🔗 View on GitHub</a>
+      <h3>BuzzMap: A Crowd-Sourced Dengue Outbreak Prevention and Intervention System with Prescriptive Analytics</h3>
+      <p>A comprehensive dengue outbreak prevention and intervention system that leverages crowd-sourced data and prescriptive analytics to combat dengue fever in Quezon City.</p>
+      <a href="https://github.com/neomdavid/buzzmap-web">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
       <img src="https://placehold.co/400x200?text=Portfolio+Website" alt="Portfolio Website" width="400"/>
@@ -66,8 +66,8 @@
   <!-- Project 2 -->
   <tr>
     <td width="55%">
-      <h4>🛒 E-Commerce App</h4>
-      <p>A full-stack e-commerce application using <b>MERN stack</b> with authentication, product management, and payments.</p>
+      <h3>AFProTrack: AFP Personnel and Trainee Management Sysem</h3>
+      <p>A centralized web-based system designed to streamline personnel and trainee management within the Armed Forces of the Philippines (AFP).</p>
       <a href="https://github.com/neomdavid/ecommerce-app">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
@@ -78,8 +78,8 @@
   <!-- Project 3 -->
   <tr>
     <td width="55%">
-      <h4>💬 Chat Application</h4>
-      <p>A real-time chat app using <b>Node.js</b>, <b>Socket.io</b>, and <b>MongoDB</b> with private and group messaging.</p>
+      <h3>CBQIS: Country Bankers Quotation Insurance System</h3>
+      <p>A digital insurance management system that generates and manages quotations for motorcar, house, and fire insurance.</p>
       <a href="https://github.com/neomdavid/chat-app">🔗 View on GitHub</a>
     </td>
     <td align="center" width="45%">
