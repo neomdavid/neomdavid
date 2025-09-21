@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td colspan="11" align="center" bgcolor="#f0f0f0">
-      <h3 style="color: #61dafb;">Languages and Tools</h3>
+      <h2 style="color: #61dafb;">Languages and Tools</h2>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center" bgcolor="#f0f0f0">
-      <h3 style="color: #61dafb;">Projects</h3>
+      <h2 style="color: #61dafb;">Projects</h2>
     </td>
   </tr>
 
