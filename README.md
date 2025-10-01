@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td colspan="11" align="center" bgcolor="#f0f0f0">
-      <h2 style="color: #61dafb;">Languages and Tools</h2>
+      <h2 style="color: #61dafb;">Languages and Toolss</h2>
     </td>
   </tr>
   <tr>
