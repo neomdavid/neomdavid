@@ -63,7 +63,7 @@
     </td>
   </tr>
 
-  <!-- Project 2 -->
+  <!-- 
   <tr>
     <td width="55%">
       <h3>AFProTrack: AFP Personnel and Trainee Management System</h3>
@@ -74,6 +74,7 @@
       <img src="https://github.com/neomdavid/neomdavid/blob/main/images/afprotrack.png" alt="AFProTrack: AFP Personnel and Trainee Management System" width="400"/>
     </td>
   </tr>
+-->
 
   <!-- Project 3 -->
   <tr>
