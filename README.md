@@ -43,15 +43,15 @@
 ---
 
 ---
-
+ <!--
 <table align="center">
   <tr>
     <td colspan="2" align="center" bgcolor="#f0f0f0">
       <h2 style="color: #61dafb;">Projects</h2>
     </td>
   </tr>
-
-  <!-- Project 1 -->
+-->
+  <!-- Project 1
   <tr>
     <td width="55%">
       <h3>BuzzMap: A Crowd-Sourced Dengue Outbreak Prevention and Intervention System with Prescriptive Analytics</h3>
@@ -62,7 +62,7 @@
       <img src="https://github.com/neomdavid/neomdavid/blob/main/images/buzzmap.png" alt="BuzzMap: A Crowd-Sourced Dengue Outbreak Prevention and Intervention System with Prescriptive Analytics" width="400"/>
     </td>
   </tr>
-
+ -->
   <!-- 
   <tr>
     <td width="55%">
@@ -76,7 +76,7 @@
   </tr>
 -->
 
-  <!-- Project 3 -->
+  <!-- Project 3
   <tr>
     <td width="55%">
       <h3>CBQIS: Country Bankers Quotation Insurance System</h3>
@@ -89,3 +89,4 @@
   </tr>
 
 </table>
+ -->
