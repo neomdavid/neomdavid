@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://neodavid.com">Portfolio</a>
+  <a href="https://www.neodavid.com/">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/neo-david">LinkedIn</a>
   ·
