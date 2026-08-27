@@ -115,7 +115,7 @@ My work includes:
 * Domain, DNS, SSL, hosting, and CDN configuration
 * Website migration and performance troubleshooting
 
-[View my web development portfolio](https://neodavid.com)
+[View my web development portfolio](https://www.neodavid.com)
 
 ---
 
@@ -252,7 +252,7 @@ Issued by **Amazon Web Services**
 
 ## Connect With Me
 
-* Portfolio: [neodavid.com](https://neodavid.com)
+* Portfolio: [neodavid.com](https://www.neodavid.com)
 * LinkedIn: [linkedin.com/in/neo-david](https://www.linkedin.com/in/neo-david)
 * GitHub: [github.com/neomdavid](https://github.com/neomdavid)
 
