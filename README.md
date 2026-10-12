@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/neomdavid/neomdavid/main/GitHubHeader.png"
-    alt="Neo David - Full-Stack Software Engineer and AWS Certified Cloud Practitioner"
+    alt="Neo David, Full-Stack Software Engineer"
     width="100%"
   />
 </p>
@@ -9,7 +9,7 @@
 <h1 align="center">Neo David</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | AWS Certified Cloud Practitioner | React, Node.js, MongoDB and AWS</strong>
+  <strong>Full-Stack Software Engineer | AWS Certified Developer – Associate | React, Node.js, MongoDB and AWS</strong>
 </p>
 
 <p align="center">
@@ -26,11 +26,13 @@
 
 I’m **Neo David**, a full-stack software engineer based in **Pasay, Philippines**, specializing in building secure, scalable, and production-ready web applications.
 
+I graduated **Summa Cum Laude** and **Batch Valedictorian** of the Class of 2026 at **National University, Manila**, with a BS in Information Technology, specializing in Mobile and Web Applications. I ranked **1st among 1,200+ graduates** with the highest grade average, and I was a **Dean’s Lister with High Honors** and a **DOST-SEI Merit Scholar**.
+
 I work primarily with **React, Node.js, Express, MongoDB, JavaScript, Tailwind CSS, Redux Toolkit, and Amazon Web Services**. My experience covers full-stack application development, REST API design, cloud deployment, CI/CD automation, database management, website development, and production troubleshooting.
 
-I currently work as a **Software Developer at Country Bankers Insurance Corporation**, where I contribute to internal business systems and cloud-hosted applications.
+I currently work as a **Full-Stack Software Engineer at Country Bankers Insurance Corporation**, where I contribute to internal business systems and cloud-hosted applications.
 
-I am also an **AWS Certified Cloud Practitioner** and a graduate of **National University – Manila** with a Bachelor of Science in Information Technology, specializing in Mobile and Web Applications.
+I am an **AWS Certified Developer – Associate** and an **AWS Certified Cloud Practitioner**.
 
 ---
 
@@ -49,7 +51,7 @@ I am also an **AWS Certified Cloud Practitioner** and a graduate of **National U
 
 ## Professional Experience
 
-### Software Developer
+### Full-Stack Software Engineer
 
 **Country Bankers Insurance Corporation**
 
@@ -211,6 +213,14 @@ I have hands-on experience with:
 ---
 
 ## Certifications
+
+### AWS Certified Developer – Associate
+
+Issued by **Amazon Web Services**
+
+* Certification: AWS Certified Developer – Associate
+* Credential earned: October 2026
+* Valid through: October 2029
 
 ### AWS Certified Cloud Practitioner
 
